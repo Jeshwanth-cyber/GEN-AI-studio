@@ -1,0 +1,6 @@
+{
+  "name": "AI Professional Email & LinkedIn Message Writer",
+  "description": "Generate clear, polite, and personalized professional emails and LinkedIn messages for job applications, referrals, internships, and interview follow-ups using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
